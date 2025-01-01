@@ -1,0 +1,9 @@
+{
+    "system_name": "facturamx",
+    "name": "Factura MX",
+    "description": "Módulo de Facturación Electrónica para México usando Facturama",
+    "version": "1.0.0",
+    "requires_at_least": "3.2.0",
+    "author": "Micrm",
+    "author_uri": "micrm.pro"
+}
